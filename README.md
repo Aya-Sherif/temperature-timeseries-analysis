@@ -10,7 +10,7 @@ This project focuses on forecasting daily minimum temperatures using time series
 ## Dataset
 
 The dataset contains over 3,600 daily minimum temperature values. It was sourced from a public dataset, often used for time series modeling tasks.
-you can find it here 👉 [Kaggle](https://www.kaggle.com/your-notebook-link-here)
+you can find it here 👉 [Kaggle](https://www.kaggle.com/datasets/shenba/time-series-datasets/data?select=daily-minimum-temperatures-in-me.csv)
 
 ## Workflow Summary
 
